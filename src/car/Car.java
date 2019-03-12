@@ -1,3 +1,5 @@
+package car;
+
 class Car {
 
   int year;
