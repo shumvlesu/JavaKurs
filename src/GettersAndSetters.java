@@ -18,7 +18,7 @@ public class GettersAndSetters {
             else
                 {this.name = userName;}
         }
-
+        
         public String getName(){
             return name;
         }
